@@ -1,0 +1,59 @@
+﻿@model Bai_moi_3.Models.User
+@using Microsoft.AspNetCore.Mvc.Rendering
+@{
+    ViewData["Title"] = "Thêm Người Dùng Mới"; // Đặt tiêu đề cho trang
+}
+
+<h2>Thêm Người Dùng Mới</h2>
+
+<form asp-action="Add" method="post" enctype="multipart/form-data">
+    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+    <div class="form-group">
+        <label asp-for="Name"></label>
+        <input asp-for="Name" class="form-control" />
+        <span asp-validation-for="Name" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Email"></label>
+        <input asp-for="Email" class="form-control" />
+        <span asp-validation-for="Email" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Password"></label>
+        <input asp-for="Password" type="password" class="form-control" /> @* Nên dùng type="password" *@
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Role"></label>
+        <input asp-for="Role" class="form-control" />
+        <span asp-validation-for="Role" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="DateOfBirth"></label>
+        <input asp-for="DateOfBirth" type="date" class="form-control" /> @* Dùng type="date" cho DateOfBirth *@
+        <span asp-validation-for="DateOfBirth" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Address"></label>
+        <input asp-for="Address" class="form-control" />
+        <span asp-validation-for="Address" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PhoneNumber"></label>
+        <input asp-for="PhoneNumber" class="form-control" />
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="CreatedAt"></label>
+        <input asp-for="CreatedAt" type="datetime-local" class="form-control" /> @* Dùng type="datetime-local" cho CreatedAt *@
+        <span asp-validation-for="CreatedAt" class="text-danger"></span>
+    </div>
+
+    <div class="form-group">
+        <label asp-for="ImageUrl1">Ảnh Đại Diện</label> @* Đổi nhãn cho rõ ràng *@
+        <input type="file" name="imageUrl1" class="form-control" /> @* Quan trọng: dùng name="imageUrl1" để khớp với tham số trong Controller *@
+    </div>
+    <button type="submit" class="btn btn-primary">Thêm</button>
+    <a asp-action="Index" class="btn btn-secondary">Quay lại danh sách</a>
+</form>
+

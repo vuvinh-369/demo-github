@@ -1,0 +1,22 @@
+﻿@model Bai_moi_3.Models.User
+
+<h2>Xóa Người Dùng</h2>
+
+<p>Bạn có chắc chắn muốn xóa người dùng **@Model.Name** không?</p>
+<br />
+<div>
+    <h4>Thông tin người dùng:</h4>
+    <dl class="row">
+        <dt class="col-sm-2">Tên:</dt>
+        <dd class="col-sm-10">@Model.Name</dd>
+        <dt class="col-sm-2">Email:</dt>
+        <dd class="col-sm-10">@Model.Email</dd>
+        @* Có thể thêm các trường khác nếu muốn hiển thị chi tiết trước khi xóa *@
+    </dl>
+</div>
+
+<form asp-action="DeleteConfirmed" method="post">
+    <input type="hidden" asp-for="Id" />
+    <button type="submit" class="btn btn-danger">Xóa</button>
+    <a asp-action="Index" class="btn btn-secondary">Hủy</a>
+</form>

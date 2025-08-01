@@ -1,0 +1,505 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\Bai_moi_3.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Bai_moi_3.o7c3k6nq2y.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\404.html",
+      "PackagePath": "staticwebassets\\404.html"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\READ-ME.txt",
+      "PackagePath": "staticwebassets\\READ-ME.txt"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\about.html",
+      "PackagePath": "staticwebassets\\about.html"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\booking.html",
+      "PackagePath": "staticwebassets\\booking.html"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\contact.html",
+      "PackagePath": "staticwebassets\\contact.html"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\destination.html",
+      "PackagePath": "staticwebassets\\destination.html"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\about.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\bg-hero.jpg",
+      "PackagePath": "staticwebassets\\img\\bg-hero.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\booking.jpg",
+      "PackagePath": "staticwebassets\\img\\booking.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\destination-1.jpg",
+      "PackagePath": "staticwebassets\\img\\destination-1.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\destination-2.jpg",
+      "PackagePath": "staticwebassets\\img\\destination-2.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\destination-3.jpg",
+      "PackagePath": "staticwebassets\\img\\destination-3.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\destination-4.jpg",
+      "PackagePath": "staticwebassets\\img\\destination-4.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\package-1.jpg",
+      "PackagePath": "staticwebassets\\img\\package-1.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\package-2.jpg",
+      "PackagePath": "staticwebassets\\img\\package-2.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\package-3.jpg",
+      "PackagePath": "staticwebassets\\img\\package-3.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\team-1.jpg",
+      "PackagePath": "staticwebassets\\img\\team-1.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\team-2.jpg",
+      "PackagePath": "staticwebassets\\img\\team-2.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\team-3.jpg",
+      "PackagePath": "staticwebassets\\img\\team-3.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\team-4.jpg",
+      "PackagePath": "staticwebassets\\img\\team-4.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\testimonial-3.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-3.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\img\\testimonial-4.jpg",
+      "PackagePath": "staticwebassets\\img\\testimonial-4.jpg"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\js\\main.js",
+      "PackagePath": "staticwebassets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\animate\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\animate\\animate.min.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\wow\\wow.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\lib\\wow\\wow.min.js",
+      "PackagePath": "staticwebassets\\lib\\wow\\wow.min.js"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\package.html",
+      "PackagePath": "staticwebassets\\package.html"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\service.html",
+      "PackagePath": "staticwebassets\\service.html"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\team.html",
+      "PackagePath": "staticwebassets\\team.html"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\testimonial.html",
+      "PackagePath": "staticwebassets\\testimonial.html"
+    },
+    {
+      "Id": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\travel-agency-html-template.jpg",
+      "PackagePath": "staticwebassets\\travel-agency-html-template.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Bai_moi_3.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Bai_moi_3.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Bai_moi_3.props",
+      "PackagePath": "build\\Bai_moi_3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Bai_moi_3.props",
+      "PackagePath": "buildMultiTargeting\\Bai_moi_3.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Bai_moi_3.props",
+      "PackagePath": "buildTransitive\\Bai_moi_3.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

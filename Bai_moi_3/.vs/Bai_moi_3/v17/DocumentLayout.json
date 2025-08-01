@@ -1,0 +1,782 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\models\\userimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\models\\userimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\models\\sd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\migrations\\20250728065510_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\migrations\\20250728065510_extendidentityuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\shared\\_layout1.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\areas\\admin\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\areas\\identity\\pages\\account\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\areas\\identity\\pages\\account\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\user\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\repositories\\efuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\repositories\\efuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\user\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\user\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\user\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\product\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\product\\display.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\user\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\user\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\models\\productimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\repositories\\efcategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\product\\update.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\repositories\\efproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\migrations\\20250728060407_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\migrations\\20250728060407_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|d:\\lap_trinh_web\\anh\\bai_moi_3\\bai_moi_3\\migrations\\20250728064001_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B590624-7665-4DE8-ACEC-D7D97CEE02CD}|Bai_moi_3\\Bai_moi_3.csproj|solutionrelative:bai_moi_3\\migrations\\20250728064001_addidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 209,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250728065510_ExtendIdentityUser.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Migrations\\20250728065510_ExtendIdentityUser.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Migrations\\20250728065510_ExtendIdentityUser.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Migrations\\20250728065510_ExtendIdentityUser.cs",
+              "RelativeToolTip": "Bai_moi_3\\Migrations\\20250728065510_ExtendIdentityUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:55:10.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Bai_moi_3\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAIwJcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:12:07.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Bai_moi_3\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:56:17.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "Bai_moi_3\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:53:24.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserImage.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\UserImage.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Models\\UserImage.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\UserImage.cs",
+              "RelativeToolTip": "Bai_moi_3\\Models\\UserImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-25T15:10:35.337Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout1.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\Shared\\_Layout1.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Shared\\_Layout1.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\Shared\\_Layout1.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:07:30.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\appsettings.json",
+              "RelativeDocumentMoniker": "Bai_moi_3\\appsettings.json",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\appsettings.json",
+              "RelativeToolTip": "Bai_moi_3\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-23T06:01:24.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Models\\User.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\User.cs",
+              "RelativeToolTip": "Bai_moi_3\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:31:27.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SD.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\SD.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Models\\SD.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\SD.cs",
+              "RelativeToolTip": "Bai_moi_3\\Models\\SD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:12:43.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "Bai_moi_3\\ScaffoldingReadMe.txt",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "Bai_moi_3\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-07-28T06:42:14.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Areas\\Admin\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T08:04:07.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Bai_moi_3\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:36:57.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Program.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Program.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Program.cs",
+              "RelativeToolTip": "Bai_moi_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:59:26.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "RelativeToolTip": "Bai_moi_3\\Areas\\Identity\\Pages\\Account\\Login.cshtml.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAAAGgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T07:32:19.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "RelativeToolTip": "Bai_moi_3\\Areas\\Identity\\Pages\\Account\\Register.cshtml.cs",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAIkAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:56:54.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T06:56:24.906Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-28T07:03:51.782Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20250728064001_AddIdentity.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Migrations\\20250728064001_AddIdentity.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Migrations\\20250728064001_AddIdentity.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Migrations\\20250728064001_AddIdentity.cs",
+              "RelativeToolTip": "Bai_moi_3\\Migrations\\20250728064001_AddIdentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:40:01.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:13:17.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\User\\Add.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\User\\Add.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\User\\Add.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\User\\Add.cshtml",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:21:07.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Bai_moi_3\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:32:35.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\User\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\User\\Delete.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\User\\Delete.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\User\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:27:59.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EFUserRepository.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Repositories\\EFUserRepository.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Repositories\\EFUserRepository.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Repositories\\EFUserRepository.cs",
+              "RelativeToolTip": "Bai_moi_3\\Repositories\\EFUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:41:40.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\User\\Index.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\User\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:24:24.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\User\\Display.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\User\\Display.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\User\\Display.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\User\\Display.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:24:42.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Bai_moi_3\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAIwFgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T07:28:56.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20250728060407_Initial.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Migrations\\20250728060407_Initial.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Migrations\\20250728060407_Initial.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Migrations\\20250728060407_Initial.cs",
+              "RelativeToolTip": "Bai_moi_3\\Migrations\\20250728060407_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T06:04:08.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Product\\Add.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\Product\\Add.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Product\\Add.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\Product\\Add.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAcwCEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T06:18:53.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Display.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Product\\Display.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\Product\\Display.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Product\\Display.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\Product\\Display.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T06:20:27.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Repositories\\IProductRepository.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "Bai_moi_3\\Repositories\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:05:40.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:10:31.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\User\\Update.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\User\\Update.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\User\\Update.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\User\\Update.cshtml",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAcwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T07:28:17.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T06:17:30.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Bai_moi_3\\wwwroot\\index.html",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\wwwroot\\index.html",
+              "RelativeToolTip": "Bai_moi_3\\wwwroot\\index.html",
+              "ViewState": "AgIAAI8BAAAAAAAAAAAswPoAAABhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-07-23T07:05:12.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Models\\Product.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\Product.cs",
+              "RelativeToolTip": "Bai_moi_3\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:52:59.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ProductImage.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\ProductImage.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Models\\ProductImage.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\ProductImage.cs",
+              "RelativeToolTip": "Bai_moi_3\\Models\\ProductImage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:54:02.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T15:37:33.259Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T15:31:20.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "EFCategoryRepository.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Repositories\\EFCategoryRepository.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Repositories\\EFCategoryRepository.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Repositories\\EFCategoryRepository.cs",
+              "RelativeToolTip": "Bai_moi_3\\Repositories\\EFCategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:08:14.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Update.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Product\\Update.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\Product\\Update.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Product\\Update.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\Product\\Update.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAcwCQAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T06:20:54.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-23T06:21:41.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T15:34:57.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Bai_moi_3\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-25T15:34:50.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Models\\Category.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\Category.cs",
+              "RelativeToolTip": "Bai_moi_3\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:53:25.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EFProductRepository.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Repositories\\EFProductRepository.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Repositories\\EFProductRepository.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Repositories\\EFProductRepository.cs",
+              "RelativeToolTip": "Bai_moi_3\\Repositories\\EFProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:07:27.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Bai_moi_3\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T06:06:10.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Bai_moi_3\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Lap_Trinh_Web\\anh\\Bai_moi_3\\Bai_moi_3\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Bai_moi_3\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T05:54:14.61Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
